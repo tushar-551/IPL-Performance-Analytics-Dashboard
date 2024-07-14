@@ -49,6 +49,9 @@ The IPL Performance Analytics Dashboard is a comprehensive data visualization to
   
 ## Images
 
+![image](https://github.com/user-attachments/assets/b44c00db-7cb1-4058-b69f-b2268c22b9c1)
+
+
 ![image](https://github.com/user-attachments/assets/e1cbfcda-a583-4d4e-8a10-a229985cfbd5)
 
 ![ipl_page-0002](https://github.com/user-attachments/assets/010535a8-ddca-4384-abc0-7846eec32a37)
